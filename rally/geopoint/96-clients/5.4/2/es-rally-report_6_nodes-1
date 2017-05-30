@@ -1,0 +1,36 @@
+Lap,Metric,Operation,Value,Unit
+All,Indexing time,,263.18233333333336,min
+All,Merge time,,47.89788333333333,min
+All,Refresh time,,5.8269166666666665,min
+All,Flush time,,0.8547999999999999,min
+All,Merge throttle time,,7.183866666666666,min
+All,Total Young Gen GC,,269.662,s
+All,Total Old Gen GC,,25.108,s
+All,Heap used for segments,,64.6585464477539,MB
+All,Heap used for doc values,,0.0346832275390625,MB
+All,Heap used for terms,,58.563209533691406,MB
+All,Heap used for points,,1.6214771270751953,MB
+All,Heap used for stored fields,,4.439178466796875,MB
+All,Segment count,,368,
+All,Min Throughput,index-append,368462.0,docs/s
+All,Median Throughput,index-append,379498.171875,docs/s
+All,Max Throughput,index-append,384203.125,docs/s
+All,50.0th percentile latency,index-append,1195.8531652999359,ms
+All,90.0th percentile latency,index-append,1461.1048180675143,ms
+All,99.0th percentile latency,index-append,1648.560778603001,ms
+All,99.9th percentile latency,index-append,1764.0507204589865,ms
+All,99.99th percentile latency,index-append,1932.9472986326916,ms
+All,100.0th percentile latency,index-append,2392.41455078125,ms
+All,50.0th percentile service time,index-append,1195.8509802653687,ms
+All,90.0th percentile service time,index-append,1461.2659678141276,ms
+All,99.0th percentile service time,index-append,1648.6278697858534,ms
+All,99.9th percentile service time,index-append,1764.0507204589865,ms
+All,99.99th percentile service time,index-append,1932.9472986326916,ms
+All,100.0th percentile service time,index-append,2392.41455078125,ms
+All,error rate,index-append,0.00,%
+All,Min Throughput,force-merge,1.3674339056015015,ops/s
+All,Median Throughput,force-merge,1.3674339056015015,ops/s
+All,Max Throughput,force-merge,1.3674339056015015,ops/s
+All,100.0th percentile latency,force-merge,731.2722778320312,ms
+All,100.0th percentile service time,force-merge,731.2722778320312,ms
+All,error rate,force-merge,0.00,%
