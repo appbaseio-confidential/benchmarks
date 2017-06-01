@@ -1,0 +1,28 @@
+Lap,Metric,Operation,Value,Unit
+All,Indexing time,,549.4269833333333,min
+All,Merge time,,176.1707,min
+All,Refresh time,,14.476633333333332,min
+All,Flush time,,7.543466666666666,min
+All,Merge throttle time,,55.658233333333335,min
+All,Total Young Gen GC,,475.451,s
+All,Total Old Gen GC,,2.157,s
+All,Heap used for segments,,94.4502944946289,MB
+All,Heap used for doc values,,0.9027023315429688,MB
+All,Heap used for terms,,67.11875915527344,MB
+All,Heap used for points,,9.554388999938965,MB
+All,Heap used for stored fields,,16.87444305419922,MB
+All,Segment count,,448,
+All,Min Throughput,index,323531.0,docs/s
+All,Median Throughput,index,332186.8333333333,docs/s
+All,Max Throughput,index,337669.8125,docs/s
+All,50.0th percentile latency,index,2351.372296636313,ms
+All,90.0th percentile latency,index,3113.624928131764,ms
+All,99.0th percentile latency,index,3574.68508300781,ms
+All,99.9th percentile latency,index,4048.9075256347696,ms
+All,100.0th percentile latency,index,5801.03662109375,ms
+All,50.0th percentile service time,index,2350.633768505793,ms
+All,90.0th percentile service time,index,3113.7074542010278,ms
+All,99.0th percentile service time,index,3575.33728637695,ms
+All,99.9th percentile service time,index,4048.9075256347696,ms
+All,100.0th percentile service time,index,5801.03662109375,ms
+All,error rate,index,0.00,%
