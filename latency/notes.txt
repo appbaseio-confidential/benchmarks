@@ -1,0 +1,6 @@
+* All nodes are c4.8xlarge
+* 1 node running nchan
+* 4 client nodes
+* Message is
+  {"location": [-90.199402, 38.627003]}
+* 36 bytes
